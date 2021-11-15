@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&family=PT+Sans&family=Source+Sans+Pro:wght@200&family=Ubuntu:wght@300&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+  
+}
+body{
+    background-color: whitesmoke !important;
+}
+.logo{
+    margin: 0% !important;
+    padding: 0% !important;
+    margin-top: 0% !important;
+    margin-bottom: 5px !important;
+    /* height: 40px; */
+    padding-left: 20px !important;
+    /* width: 40px !important; */
+}
+.navcont{
+    color: white !important;
+}
+/* .search{
+    margin-right: 20px;
+} */
+
+.contain{
+    background-color: black;
+    color: white;
+}
+#rivertext{
+    color: white;
+}
+
+.logos{
+    background-color: whitesmoke;
+}
+
+.compo{
+    /* background-color: black; */
+    border-radius: 9px;
+    /* height: 70px; */
+    width: 100px;
+    color: whitesmoke !important;
+}
+.compo:hover{
+    background-color: green !important;
+}
+
+.sei{
+    height: 4vh;
+}
+.icon img{
+    height: 30px;
+}
+.lolo:hover{
+    background-color: grey !important;
+    border-radius: 7px;
+
+}
+.icons8{
+    height: 380px;
+    width: 200px;
+}
